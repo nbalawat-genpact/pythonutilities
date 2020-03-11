@@ -26,7 +26,7 @@ def add_some_number(val):
 
 
 def filter_number(val):
-    return val > 300 
+    return val > 300
 
 
 new_values = list(map(add_some_number, num_dict.values()))
