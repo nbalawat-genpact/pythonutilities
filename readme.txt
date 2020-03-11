@@ -1,4 +1,4 @@
-.\venvutilities\Scripts\activate
+.\venv\Scripts\activate
 python -m pip install --upgrade seaborn
 pip install -r requirements.txt
 python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
