@@ -4,3 +4,4 @@ venvutilities
 venv
 venv/*
 venv/*/**
+convnets/hymenoptera_data
